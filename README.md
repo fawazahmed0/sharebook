@@ -1,7 +1,7 @@
 <h1 align="center">Share Your Books</h1>
 
 <p align="center">
-  <img width="726" height="400" src="https://github.com/fawazahmed0/sharebook/raw/main/books.jpg">
+  <img width="726" height="400" src="https://github.com/fawazahmed0/sharebook/raw/main/books2.jpg">
 </p>
 <h2 align="center"><em>Share Your books, help the knowledge flow and let the world grow</em></h2>
 
