@@ -25,7 +25,7 @@
 7. Browse & Select the Scanned PDF and click upload (May take little time to upload)
 8. In Next page, fill Title & Language of Book
 9. Click Submit.
-10. The uploaded book should show in search results after 1-2 days.
+10. The uploaded book should be visible in search results after 1-2 days.
 
 ### Benefits of Library Genesis:
 - Its on de-centralized Internet, so the book will always be available for download.
