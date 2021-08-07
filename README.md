@@ -10,7 +10,7 @@
 1. Go to [1.1.1.1](https://1.1.1.1) and install & run the app
 2. Go to [Library Genesis][libgen]
 3. Type book name and click search
-4. Click on book title
+4. In Search results, click on book title
 5. Click on book page cover
 6. Click on GET or Cloudflare to download the book
 
