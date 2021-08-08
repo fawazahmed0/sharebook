@@ -5,7 +5,7 @@
 </p>
 <h2 align="center"><em>Share Your books, help the knowledge flow and let the world grow</em></h2>
 
-### Youtube Demo: [Link](https://www.youtube.com/watch?v=j_qwdWEmX-M)
+### Youtube Step-by-Step: [Link](https://www.youtube.com/watch?v=j_qwdWEmX-M)
 
 ### Download a book:
 1. Go to [1.1.1.1](https://1.1.1.1) and install & run the app
