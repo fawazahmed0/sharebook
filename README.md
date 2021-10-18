@@ -34,5 +34,6 @@
 
 [libgen]: https://libgen.rs "Library Genesis"
 
+**Note:** You can also find books at [Z-Library](https://z-lib.org/)
 
 [:pencil2:*Improve this page*](https://github.com/fawazahmed0/sharebook/edit/main/README.md)
